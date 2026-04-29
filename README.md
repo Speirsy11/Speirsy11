@@ -22,7 +22,7 @@
 - **[Network_Scanner](https://github.com/Speirsy11/Network_Scanner)** — Python network scanner using Flask, NMAP & SQLite3 — UI built with React + Tailwind, containerised with Docker
 - **[BlockChat](https://github.com/Speirsy11/BlockChat)** — Blockchain-based secure messaging service — dissertation project
 
-### 🎮 Gaming & Fun
+### 💻Hobby
 
 - **[pokemon-helper](https://github.com/Speirsy11/pokemon-helper)** — Pokédex webapp — search any Pokémon for stats, types, weaknesses & resistances
 - **[Stardew-Tracker](https://github.com/Speirsy11/Stardew-Tracker)** — Stardew Valley progress tracker
