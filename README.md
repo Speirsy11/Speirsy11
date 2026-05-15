@@ -17,12 +17,13 @@
 - **[Portfolio-Tracker](https://github.com/Speirsy11/Portfolio-Tracker)** — Investment portfolio tracking and analysis app
 - **[budget-buddy](https://github.com/Speirsy11/budget-buddy)** — Personal finance & budgeting tool
 
-### 🔐 Security & Networking
+### 🔐 Security, Networking & Homelab
 
+- **[mac-mini-homelab-kit](https://github.com/Speirsy11/mac-mini-homelab-kit)** — Beginner-friendly Mac mini homelab starter kit with safe Docker profiles, monitoring, DNS, and setup guides
 - **[Network_Scanner](https://github.com/Speirsy11/Network_Scanner)** — Python network scanner using Flask, NMAP & SQLite3 — UI built with React + Tailwind, containerised with Docker
 - **[BlockChat](https://github.com/Speirsy11/BlockChat)** — Blockchain-based secure messaging service — dissertation project
 
-### 💻Hobby
+### 💻 Hobby
 
 - **[pokemon-helper](https://github.com/Speirsy11/pokemon-helper)** — Pokédex webapp — search any Pokémon for stats, types, weaknesses & resistances
 - **[Stardew-Tracker](https://github.com/Speirsy11/Stardew-Tracker)** — Stardew Valley progress tracker
