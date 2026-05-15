@@ -11,6 +11,11 @@
 
 ---
 
+
+### 📱 Product Apps
+
+- **[KindPledge](https://github.com/Speirsy11/KindPledge)** — Commitment app for putting small stakes behind tasks, verifying proof, and routing failed pledges toward charity
+
 ### 💹 Finance & Trading
 
 - **[trading_bot_platform](https://github.com/Speirsy11/trading_bot_platform)** — Automated trading bot platform built in TypeScript
