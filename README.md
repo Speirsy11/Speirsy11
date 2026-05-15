@@ -20,6 +20,7 @@
 ### 🔐 Security, Networking & Homelab
 
 - **[mac-mini-homelab-kit](https://github.com/Speirsy11/mac-mini-homelab-kit)** — Beginner-friendly Mac mini homelab starter kit with safe Docker profiles, monitoring, DNS, and setup guides
+- **[rn-ios-doctor](https://github.com/Speirsy11/rn-ios-doctor)** — Local React Native / Expo iOS build diagnostics for Xcode-era failures
 - **[Network_Scanner](https://github.com/Speirsy11/Network_Scanner)** — Python network scanner using Flask, NMAP & SQLite3 — UI built with React + Tailwind, containerised with Docker
 - **[BlockChat](https://github.com/Speirsy11/BlockChat)** — Blockchain-based secure messaging service — dissertation project
 
