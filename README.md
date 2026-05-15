@@ -21,8 +21,17 @@
 
 - **[mac-mini-homelab-kit](https://github.com/Speirsy11/mac-mini-homelab-kit)** — Beginner-friendly Mac mini homelab starter kit with safe Docker profiles, monitoring, DNS, and setup guides
 - **[rn-ios-doctor](https://github.com/Speirsy11/rn-ios-doctor)** — Local React Native / Expo iOS build diagnostics for Xcode-era failures
+- **[bug-bounty-notebook](https://github.com/Speirsy11/bug-bounty-notebook)** — Safe local notebook generator for authorized bug bounty scoping, evidence, and report drafting
 - **[Network_Scanner](https://github.com/Speirsy11/Network_Scanner)** — Python network scanner using Flask, NMAP & SQLite3 — UI built with React + Tailwind, containerised with Docker
 - **[BlockChat](https://github.com/Speirsy11/BlockChat)** — Blockchain-based secure messaging service — dissertation project
+
+### 🤖 AI Workflow Tools
+
+- **[agent-handoff-kit](https://github.com/Speirsy11/agent-handoff-kit)** — Templates and scripts for safer coding-agent handoffs, evidence, and review guardrails
+- **[smb-ai-workflow-audit-kit](https://github.com/Speirsy11/smb-ai-workflow-audit-kit)** — Local-first templates for assessing safe AI workflow opportunities in small businesses
+- **[ai-adoption-readiness-kit](https://github.com/Speirsy11/ai-adoption-readiness-kit)** — Self-assessment kit for evaluating team readiness to adopt AI workflows safely
+- **[local-service-automation-recipes](https://github.com/Speirsy11/local-service-automation-recipes)** — Draft-only local business automation recipe templates with safety guardrails
+- **[revenue-readiness-portfolio](https://github.com/Speirsy11/revenue-readiness-portfolio)** — Local portfolio dashboard for comparing revenue-readiness experiments and approval-gated next steps
 
 ### 💻 Hobby
 
