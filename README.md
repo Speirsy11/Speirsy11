@@ -38,6 +38,10 @@
 - **[LocalFlow](https://github.com/Speirsy11/LocalFlow)** — Draft-only local business automation recipe templates with safety guardrails
 - **[LaunchBoard](https://github.com/Speirsy11/LaunchBoard)** — Local portfolio dashboard for comparing revenue-readiness experiments and approval-gated next steps
 
+### 🧠 Learning & Practice
+
+- **[coding-practice-kit](https://github.com/Speirsy11/coding-practice-kit)** — Python and TypeScript coding challenges with tests for regular skills practice
+
 ### 💻 Hobby
 
 - **[pokemon-helper](https://github.com/Speirsy11/pokemon-helper)** — Pokédex webapp — search any Pokémon for stats, types, weaknesses & resistances
