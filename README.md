@@ -34,6 +34,7 @@
 ### 🤖 AI Workflow Tools
 
 - **[HandoffKit](https://github.com/Speirsy11/HandoffKit)** — Templates and scripts for safer coding-agent handoffs, evidence, and review guardrails
+- **[AgentWorkbench](https://github.com/Speirsy11/AgentWorkbench)** — Configurable multi-agent workflow platform with reusable role/data-pack templates and a lightweight web UI
 - **[FlowAudit](https://github.com/Speirsy11/FlowAudit)** — Local-first templates for assessing safe AI workflow opportunities in small businesses
 - **[AIReady](https://github.com/Speirsy11/AIReady)** — Self-assessment kit for evaluating team readiness to adopt AI workflows safely
 - **[LocalFlow](https://github.com/Speirsy11/LocalFlow)** — Draft-only local business automation recipe templates with safety guardrails
