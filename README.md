@@ -19,6 +19,7 @@
 ### 💹 Finance & Trading
 
 - **[trading_bot_platform](https://github.com/Speirsy11/trading_bot_platform)** — Automated trading bot platform built in TypeScript
+- **[signal-harvester](https://github.com/Speirsy11/signal-harvester)** — Reusable Dockerized market/news/sentiment collection service with jobs, API, and web UI
 - **[Portfolio-Tracker](https://github.com/Speirsy11/Portfolio-Tracker)** — Investment portfolio tracking and analysis app
 - **[budget-buddy](https://github.com/Speirsy11/budget-buddy)** — Personal finance & budgeting tool
 
