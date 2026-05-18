@@ -33,6 +33,7 @@
 
 ### 🤖 AI Workflow Tools
 
+- **[coderabbit-codex-clone](https://github.com/Speirsy11/coderabbit-codex-clone)** — Local CodeRabbit-style review CLI powered by authenticated Codex CLI, with TUI review output and auto-fix mode
 - **[HandoffKit](https://github.com/Speirsy11/HandoffKit)** — Templates and scripts for safer coding-agent handoffs, evidence, and review guardrails
 - **[AgentWorkbench](https://github.com/Speirsy11/AgentWorkbench)** — Configurable multi-agent workflow platform with reusable role/data-pack templates and a lightweight web UI
 - **[FlowAudit](https://github.com/Speirsy11/FlowAudit)** — Local-first templates for assessing safe AI workflow opportunities in small businesses
@@ -69,4 +70,6 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speirsy11&layout=compact&theme=dark&hide_border=true" height="150" />
+### 📈 Contributions
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Speirsy11&theme=github-dark&hide_border=true" alt="Charlie Speirs GitHub contribution activity graph" />
