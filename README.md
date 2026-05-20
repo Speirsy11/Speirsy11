@@ -45,6 +45,10 @@
 
 - **[Charlie-turbo-starter](https://github.com/Speirsy11/Charlie-turbo-starter)** — Clerk-powered T3 Turborepo starter with `@charlie` packages, shared/feature/composition tiers, and enforced Turborepo boundaries
 
+### 📊 Datasets
+
+- **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** — Public Binance USDT OHLCV candle dataset in partitioned Parquet, with 1m source candles and UTC rollups
+
 ### 🧠 Learning & Practice
 
 - **[coding-practice-kit](https://github.com/Speirsy11/coding-practice-kit)** — Python and TypeScript coding challenges with tests for regular skills practice
