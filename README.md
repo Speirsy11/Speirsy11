@@ -33,6 +33,7 @@
 
 ### 🤖 AI Workflow Tools
 
+- **[agent-scope](https://github.com/Speirsy11/agent-scope)** — Local-first observability and memory-mining CLI for AI agents, token usage, cost summaries, conversation traces, and GBrain-ready insights
 - **[coderabbit-codex-clone](https://github.com/Speirsy11/coderabbit-codex-clone)** — Local CodeRabbit-style review CLI powered by authenticated Codex CLI, with TUI review output and auto-fix mode
 - **[HandoffKit](https://github.com/Speirsy11/HandoffKit)** — Templates and scripts for safer coding-agent handoffs, evidence, and review guardrails
 - **[AgentWorkbench](https://github.com/Speirsy11/AgentWorkbench)** — Configurable multi-agent workflow platform with reusable role/data-pack templates and a lightweight web UI
