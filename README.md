@@ -1,6 +1,6 @@
 # Hi, I'm Charlie 👋
 
-**Developer** — building things across finance, security, and the web.
+**Fullstack Developer**
 
 📍 UK &nbsp;|&nbsp; 📬 [charliespeirs11@gmail.com](mailto:charliespeirs11@gmail.com) &nbsp;|&nbsp; 🐙 [github.com/Speirsy11](https://github.com/Speirsy11)
 
