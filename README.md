@@ -41,6 +41,7 @@
 - **[pokemon-helper](https://github.com/Speirsy11/pokemon-helper)** — Search any Pokémon for stats, types, weaknesses & resistances
 - **[Stardew-Tracker](https://github.com/Speirsy11/Stardew-Tracker)** — Stardew Valley progress tracker
 - **[Stardew-Art-Generator](https://github.com/Speirsy11/Stardew-Art-Generator)** — Stardew Valley art generator
+- **[OP.GG Clone](https://github.com/Speirsy11/OPGG-Clone)** - OP.GG Clone with Riot API
 
 ---
 
