@@ -12,25 +12,25 @@
 ---
 ### 📊 Datasets
 
-- **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** — Public Binance USDT OHLCV candle dataset in partitioned Parquet, with 1m source candles and UTC rollups
+- **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** — Top 10 Binance Coins/USDT dataset. Partitioned in Parquet.
 
 ### 💹 Finance & Trading
 
-- **[trading_bot_platform](https://github.com/Speirsy11/trading_bot_platform)** — Automated trading bot platform built in TypeScript
-- **[signal-harvester](https://github.com/Speirsy11/signal-harvester)** — Dockerised market/news/sentiment data collection service with jobs, API, and web UI
+- **[trading_bot_platform](https://github.com/Speirsy11/trading_bot_platform)** — TypeScript trading bot platform
+- **[signal-harvester](https://github.com/Speirsy11/signal-harvester)** — Market/news/sentiment data collection service with jobs, API, and web UI
 - **[budget-buddy](https://github.com/Speirsy11/budget-buddy)** — Personal finance & budgeting tool
 - **[AgentWorkbench](https://github.com/Speirsy11/AgentWorkbench)** — Configurable multi-agent workflow and aightweight UI. Forked from TradingAgents
 
 ### 🔐 Security & Networking
 
-- **[Network_Scanner](https://github.com/Speirsy11/Network_Scanner)** — Python network scanner using Flask, NMAP & SQLite3 — UI built with React + Tailwind, containerised with Docker
-- **[BlockChat](https://github.com/Speirsy11/BlockChat)** — Blockchain-based secure messaging service — dissertation project
+- **[Network_Scanner](https://github.com/Speirsy11/Network_Scanner)** — Python network scanner
+- **[BlockChat](https://github.com/Speirsy11/BlockChat)** — BsC Dissertation Project - Blockchain-based secure messaging service
 
 ### 🤖 AI Tools
 
-- **[agent-scope](https://github.com/Speirsy11/agent-scope)** — Agent usage observability
+- **[agent-scope](https://github.com/Speirsy11/agent-scope)** — Agent observability tool
 - **[coderabbit-codex-clone](https://github.com/Speirsy11/coderabbit-codex-clone)** — CodeRabbit CLI clone using Codex CLI
-- **[HandoffKit](https://github.com/Speirsy11/HandoffKit)** — Templates and scripts for safer coding-agent handoffs, evidence, and review guardrails
+- **[HandoffKit](https://github.com/Speirsy11/HandoffKit)** — Coding-agent handoff templates
 
 ### 🧰 Starters
 
@@ -38,7 +38,7 @@
 
 ### 🎮 Games
 
-- **[pokemon-helper](https://github.com/Speirsy11/pokemon-helper)** — Pokédex webapp — search any Pokémon for stats, types, weaknesses & resistances
+- **[pokemon-helper](https://github.com/Speirsy11/pokemon-helper)** — Search any Pokémon for stats, types, weaknesses & resistances
 - **[Stardew-Tracker](https://github.com/Speirsy11/Stardew-Tracker)** — Stardew Valley progress tracker
 - **[Stardew-Art-Generator](https://github.com/Speirsy11/Stardew-Art-Generator)** — Stardew Valley art generator
 
