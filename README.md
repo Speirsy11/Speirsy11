@@ -10,51 +10,33 @@
 <a href="https://github.com/Speirsy11"><img src="https://img.shields.io/badge/GitHub-Speirsy11-black?style=flat-square&logo=github&logoColor=white" /></a>
 
 ---
-
-
-### 📱 Product Apps
-
-- **[KindPledge](https://github.com/Speirsy11/KindPledge)** — Commitment app for putting small stakes behind tasks, verifying proof, and routing failed pledges toward charity
-
-### 💹 Finance & Trading
-
-- **[trading_bot_platform](https://github.com/Speirsy11/trading_bot_platform)** — Automated trading bot platform built in TypeScript
-- **[signal-harvester](https://github.com/Speirsy11/signal-harvester)** — Reusable Dockerized market/news/sentiment collection service with jobs, API, and web UI
-- **[Portfolio-Tracker](https://github.com/Speirsy11/Portfolio-Tracker)** — Investment portfolio tracking and analysis app
-- **[budget-buddy](https://github.com/Speirsy11/budget-buddy)** — Personal finance & budgeting tool
-
-### 🔐 Security, Networking & Homelab
-
-- **[mac-mini-homelab-kit](https://github.com/Speirsy11/mac-mini-homelab-kit)** — Beginner-friendly Mac mini homelab starter kit with safe Docker profiles, monitoring, DNS, and setup guides
-- **[rn-ios-doctor](https://github.com/Speirsy11/rn-ios-doctor)** — Local React Native / Expo iOS build diagnostics for Xcode-era failures
-- **[ScopeNote](https://github.com/Speirsy11/ScopeNote)** — Safe local notebook generator for authorized bug bounty scoping, evidence, and report drafting
-- **[Network_Scanner](https://github.com/Speirsy11/Network_Scanner)** — Python network scanner using Flask, NMAP & SQLite3 — UI built with React + Tailwind, containerised with Docker
-- **[BlockChat](https://github.com/Speirsy11/BlockChat)** — Blockchain-based secure messaging service — dissertation project
-
-### 🤖 AI Workflow Tools
-
-- **[agent-scope](https://github.com/Speirsy11/agent-scope)** — Local-first observability and memory-mining CLI for AI agents, token usage, cost summaries, conversation traces, and GBrain-ready insights
-- **[coderabbit-codex-clone](https://github.com/Speirsy11/coderabbit-codex-clone)** — Local CodeRabbit-style review CLI powered by authenticated Codex CLI, with TUI review output and auto-fix mode
-- **[HandoffKit](https://github.com/Speirsy11/HandoffKit)** — Templates and scripts for safer coding-agent handoffs, evidence, and review guardrails
-- **[AgentWorkbench](https://github.com/Speirsy11/AgentWorkbench)** — Configurable multi-agent workflow platform with reusable role/data-pack templates and a lightweight web UI
-- **[FlowAudit](https://github.com/Speirsy11/FlowAudit)** — Local-first templates for assessing safe AI workflow opportunities in small businesses
-- **[AIReady](https://github.com/Speirsy11/AIReady)** — Self-assessment kit for evaluating team readiness to adopt AI workflows safely
-- **[LocalFlow](https://github.com/Speirsy11/LocalFlow)** — Draft-only local business automation recipe templates with safety guardrails
-- **[LaunchBoard](https://github.com/Speirsy11/LaunchBoard)** — Local portfolio dashboard for comparing revenue-readiness experiments and approval-gated next steps
-
-### 🧰 Developer Starters
-
-- **[Charlie-turbo-starter](https://github.com/Speirsy11/Charlie-turbo-starter)** — Clerk-powered T3 Turborepo starter with `@charlie` packages, shared/feature/composition tiers, and enforced Turborepo boundaries
-
 ### 📊 Datasets
 
 - **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** — Public Binance USDT OHLCV candle dataset in partitioned Parquet, with 1m source candles and UTC rollups
 
-### 🧠 Learning & Practice
+### 💹 Finance & Trading
 
-- **[coding-practice-kit](https://github.com/Speirsy11/coding-practice-kit)** — Python and TypeScript coding challenges with tests for regular skills practice
+- **[trading_bot_platform](https://github.com/Speirsy11/trading_bot_platform)** — Automated trading bot platform built in TypeScript
+- **[signal-harvester](https://github.com/Speirsy11/signal-harvester)** — Dockerised market/news/sentiment data collection service with jobs, API, and web UI
+- **[budget-buddy](https://github.com/Speirsy11/budget-buddy)** — Personal finance & budgeting tool
+- **[AgentWorkbench](https://github.com/Speirsy11/AgentWorkbench)** — Configurable multi-agent workflow and aightweight UI. Forked from TradingAgents
 
-### 💻 Hobby
+### 🔐 Security & Networking
+
+- **[Network_Scanner](https://github.com/Speirsy11/Network_Scanner)** — Python network scanner using Flask, NMAP & SQLite3 — UI built with React + Tailwind, containerised with Docker
+- **[BlockChat](https://github.com/Speirsy11/BlockChat)** — Blockchain-based secure messaging service — dissertation project
+
+### 🤖 AI Tools
+
+- **[agent-scope](https://github.com/Speirsy11/agent-scope)** — Agent usage observability
+- **[coderabbit-codex-clone](https://github.com/Speirsy11/coderabbit-codex-clone)** — CodeRabbit CLI clone using Codex CLI
+- **[HandoffKit](https://github.com/Speirsy11/HandoffKit)** — Templates and scripts for safer coding-agent handoffs, evidence, and review guardrails
+
+### 🧰 Starters
+
+- **[Charlie-turbo-starter](https://github.com/Speirsy11/Charlie-turbo-starter)** — My Turborepo starter
+
+### 🎮 Games
 
 - **[pokemon-helper](https://github.com/Speirsy11/pokemon-helper)** — Pokédex webapp — search any Pokémon for stats, types, weaknesses & resistances
 - **[Stardew-Tracker](https://github.com/Speirsy11/Stardew-Tracker)** — Stardew Valley progress tracker
