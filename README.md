@@ -12,12 +12,12 @@
 ---
 ### 📊 Datasets
 
-- **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** — Top 10 Binance Coins/USDT dataset. Partitioned in Parquet.
+- **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** — Partitioned Parquet datasets combining top-10 Binance OHLCV candles with metadata-only crypto, public-discussion, and macroeconomic FinBERT sentiment signals
 
 ### 💹 Finance & Trading
 
 - **[trading_bot_platform](https://github.com/Speirsy11/trading_bot_platform)** — TypeScript trading bot platform
-- **[signal-harvester](https://github.com/Speirsy11/signal-harvester)** — Market/news/sentiment data collection service with jobs, API, and web UI
+- **[signal-harvester](https://github.com/Speirsy11/signal-harvester)** — Scheduled market/news collection service powering the candle and sentiment datasets, with temporary private text retention and multi-asset relevance mapping
 - **[budget-buddy](https://github.com/Speirsy11/budget-buddy)** — Personal finance & budgeting tool
 - **[AgentWorkbench](https://github.com/Speirsy11/AgentWorkbench)** — Configurable multi-agent workflow and aightweight UI. Forked from TradingAgents
 
