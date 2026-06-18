@@ -12,7 +12,8 @@
 ---
 ### 📊 Datasets
 
-- **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** — Partitioned Parquet datasets combining top-10 Binance OHLCV candles with metadata-only crypto, public-discussion, and macroeconomic FinBERT sentiment signals
+- **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** — Top-10 Binance OHLCV candle dataset partitioned as Parquet
+- **[crypto-news-dataset](https://github.com/Speirsy11/crypto-news-dataset)** — Metadata-only crypto, public-discussion, and macroeconomic FinBERT sentiment datasets partitioned as Parquet
 
 ### 💹 Finance & Trading
 
