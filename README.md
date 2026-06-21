@@ -26,12 +26,21 @@
 
 - **[Network_Scanner](https://github.com/Speirsy11/Network_Scanner)** — Python network scanner
 - **[BlockChat](https://github.com/Speirsy11/BlockChat)** — BsC Dissertation Project - Blockchain-based secure messaging service
+- **[package-watchdog](https://github.com/Speirsy11/package-watchdog)** — Stdlib Python engine that hotfixes high/critical CVEs in brew + npm packages and runs a 7-day cool-off upgrade pass
 
 ### 🤖 AI Tools
 
 - **[agent-scope](https://github.com/Speirsy11/agent-scope)** — Agent observability tool
 - **[coderabbit-codex-clone](https://github.com/Speirsy11/coderabbit-codex-clone)** — CodeRabbit CLI clone using Codex CLI
 - **[HandoffKit](https://github.com/Speirsy11/HandoffKit)** — Coding-agent handoff templates
+- **[codex-usage-logger](https://github.com/Speirsy11/codex-usage-logger)** — TypeScript wrapper around `codex exec` that appends structured usage (tokens, model, cost) to JSONL with privacy-first redaction
+
+### 🖥️ Live Dashboards & Homelab
+
+- **[worldcup-dashboard](https://github.com/Speirsy11/worldcup-dashboard)** — Live FIFA World Cup 2026 dashboard (Python stdlib + static frontend) with football-data.org + ESPN detail feeds
+- **[homelab](https://github.com/Speirsy11/homelab)** — Mac mini Docker Compose stack (AdGuard, Uptime Kuma, Dozzle, Caddy) with `.lan` DNS rewrites and start-services LaunchAgent
+- **[homelab-dashboard](https://github.com/Speirsy11/homelab-dashboard)** — Static HTML homelab dashboard served by a Python stdlib server with a 60s Codex-usage cache
+- **[lan-file-share](https://github.com/Speirsy11/lan-file-share)** — Dependency-free Python stdlib LAN file share with Basic Auth and Keychain-stored password
 
 ### 🧰 Starters
 
