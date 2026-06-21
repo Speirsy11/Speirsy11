@@ -42,6 +42,10 @@
 - **[homelab-dashboard](https://github.com/Speirsy11/homelab-dashboard)** — Static HTML homelab dashboard served by a Python stdlib server with a 60s Codex-usage cache
 - **[lan-file-share](https://github.com/Speirsy11/lan-file-share)** — Dependency-free Python stdlib LAN file share with Basic Auth and Keychain-stored password
 
+### 🎓 Dissertations
+
+- **[dissertations](https://github.com/Speirsy11/dissertations)** — University of Liverpool: BSc (BlockChat, 2023/24) and MSc FinTech (ML for trading strategy regime selection, 2025)
+
 ### 🧰 Starters
 
 - **[Charlie-turbo-starter](https://github.com/Speirsy11/Charlie-turbo-starter)** — My Turborepo starter
