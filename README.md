@@ -68,6 +68,17 @@
 
 ---
 
-### 📈 Contributions
+### 📈 Stats & Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Speirsy11&theme=github-dark&hide_border=true" alt="Charlie Speirs GitHub contribution activity graph" />
+<a href="https://github.com/Speirsy11">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Speirsy11&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speirsy11&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+</a>
+
+### 🔥 Streak
+
+<img src="https://streak-stats.demolab.com?user=Speirsy11&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+
+### 📊 Past Year Contributions
+
+<img src="https://ghchart.rshah.org/2196F3/Speirsy11" alt="Past year contribution chart" />
