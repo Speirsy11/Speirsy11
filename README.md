@@ -68,16 +68,13 @@
 
 ---
 
-### 📈 Stats & Activity
-
-<a href="https://github.com/Speirsy11">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Speirsy11&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speirsy11&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-</a>
-
 ### 🔥 Streak
 
 <img src="https://streak-stats.demolab.com?user=Speirsy11&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+
+### 💻 Most Used Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speirsy11&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 
 ### 📊 Past Year Contributions
 
