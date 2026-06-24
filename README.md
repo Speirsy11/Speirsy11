@@ -31,6 +31,7 @@
 ### 🤖 AI Tools
 
 - **[agent-scope](https://github.com/Speirsy11/agent-scope)** — Agent observability tool
+- **[apfel-bench](https://github.com/Speirsy11/apfel-bench)** — Benchmarks, chat, and results dashboard for Apple's on-device FoundationModel via [apfel](https://github.com/Arthur-Ficial/apfel). FastAPI + React/Vite/Bun, extensible `Benchmark` registry, OpenAI-compatible streaming
 - **[coderabbit-codex-clone](https://github.com/Speirsy11/coderabbit-codex-clone)** — CodeRabbit CLI clone using Codex CLI
 - **[HandoffKit](https://github.com/Speirsy11/HandoffKit)** — Coding-agent handoff templates
 - **[codex-usage-logger](https://github.com/Speirsy11/codex-usage-logger)** — TypeScript wrapper around `codex exec` that appends structured usage (tokens, model, cost) to JSONL with privacy-first redaction
