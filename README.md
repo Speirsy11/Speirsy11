@@ -15,48 +15,18 @@
 - **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** — Top-10 Binance OHLCV candle dataset partitioned as Parquet
 - **[crypto-news-dataset](https://github.com/Speirsy11/crypto-news-dataset)** — Metadata-only crypto, public-discussion, and macroeconomic FinBERT sentiment datasets partitioned as Parquet
 
-### 💹 Finance & Trading
+### 🤖 Benchmarks
 
-- **[trading_bot_platform](https://github.com/Speirsy11/trading_bot_platform)** — TypeScript trading bot platform
-- **[signal-harvester](https://github.com/Speirsy11/signal-harvester)** — Scheduled market/news collection service powering the candle and sentiment datasets, with temporary private text retention and multi-asset relevance mapping
-- **[budget-buddy](https://github.com/Speirsy11/budget-buddy)** — Personal finance & budgeting tool
-- **[AgentWorkbench](https://github.com/Speirsy11/AgentWorkbench)** — Configurable multi-agent workflow and aightweight UI. Forked from TradingAgents
-
-### 🔐 Security & Networking
-
-- **[Network_Scanner](https://github.com/Speirsy11/Network_Scanner)** — Python network scanner
-- **[BlockChat](https://github.com/Speirsy11/BlockChat)** — BsC Dissertation Project - Blockchain-based secure messaging service
-- **[package-watchdog](https://github.com/Speirsy11/package-watchdog)** — Stdlib Python engine that hotfixes high/critical CVEs in brew + npm packages and runs a 7-day cool-off upgrade pass
-
-### 🤖 AI Tools
-
-- **[agent-scope](https://github.com/Speirsy11/agent-scope)** — Agent observability tool
-- **[apfel-bench](https://github.com/Speirsy11/apfel-bench)** — Benchmarks, chat, and results dashboard for Apple's on-device FoundationModel via [apfel](https://github.com/Arthur-Ficial/apfel). FastAPI + React/Vite/Bun, extensible `Benchmark` registry, OpenAI-compatible streaming
-- **[coderabbit-codex-clone](https://github.com/Speirsy11/coderabbit-codex-clone)** — CodeRabbit CLI clone using Codex CLI
-- **[HandoffKit](https://github.com/Speirsy11/HandoffKit)** — Coding-agent handoff templates
-- **[codex-usage-logger](https://github.com/Speirsy11/codex-usage-logger)** — TypeScript wrapper around `codex exec` that appends structured usage (tokens, model, cost) to JSONL with privacy-first redaction
-
-### 🖥️ Live Dashboards & Homelab
-
-- **[worldcup-dashboard](https://github.com/Speirsy11/worldcup-dashboard)** — Live FIFA World Cup 2026 dashboard (Python stdlib + static frontend) with football-data.org + ESPN detail feeds
-- **[homelab](https://github.com/Speirsy11/homelab)** — Mac mini Docker Compose stack (AdGuard, Uptime Kuma, Dozzle, Caddy) with `.lan` DNS rewrites and start-services LaunchAgent
-- **[homelab-dashboard](https://github.com/Speirsy11/homelab-dashboard)** — Static HTML homelab dashboard served by a Python stdlib server with a 60s Codex-usage cache
-- **[lan-file-share](https://github.com/Speirsy11/lan-file-share)** — Dependency-free Python stdlib LAN file share with Basic Auth and Keychain-stored password
+- **[apfel-bench](https://github.com/Speirsy11/apfel-bench)** - Benchmarks, chat, and results dashboard for Apple's on-device FoundationModel via [apfel](https://github.com/Arthur-Ficial/apfel). FastAPI + React/Vite/Bun, extensible `Benchmark` registry, OpenAI-compatible streaming
 
 ### 🎓 Dissertations
 
-- **[dissertations](https://github.com/Speirsy11/dissertations)** — University of Liverpool: BSc (BlockChat, 2023/24) and MSc FinTech (ML for trading strategy regime selection, 2025)
+- **[dissertations](https://github.com/Speirsy11/dissertations)** — University of Liverpool: BSc (BlockChat, 2023/24) and MSc FinTech (ML for trading strategy regime selection, 2025
+- **[BlockChat](https://github.com/Speirsy11/BlockChat)** — BsC Dissertation Project - Blockchain-based secure messaging service
 
 ### 🧰 Starters
 
 - **[Charlie-turbo-starter](https://github.com/Speirsy11/Charlie-turbo-starter)** — My Turborepo starter
-
-### 🎮 Games
-
-- **[pokemon-helper](https://github.com/Speirsy11/pokemon-helper)** — Search any Pokémon for stats, types, weaknesses & resistances
-- **[Stardew-Tracker](https://github.com/Speirsy11/Stardew-Tracker)** — Stardew Valley progress tracker
-- **[Stardew-Art-Generator](https://github.com/Speirsy11/Stardew-Art-Generator)** — Stardew Valley art generator
-- **[OP.GG Clone](https://github.com/Speirsy11/OPGG-Clone)** - OP.GG Clone with Riot API
 
 ---
 
