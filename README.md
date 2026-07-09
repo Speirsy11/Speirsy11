@@ -1,6 +1,6 @@
 # Hi, I'm Charlie 👋
 
-**Fullstack Developer**
+**Fullstack Developer · FinTech MSc · CompSci BSc** 
 
 📍 UK &nbsp;|&nbsp; 📬 [charliespeirs11@gmail.com](mailto:charliespeirs11@gmail.com) &nbsp;|&nbsp; 🐙 [github.com/Speirsy11](https://github.com/Speirsy11)
 
@@ -12,8 +12,8 @@
 ---
 ### 📊 Datasets
 
-- **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** — Top-10 Binance OHLCV candle dataset partitioned as Parquet
-- **[crypto-news-dataset](https://github.com/Speirsy11/crypto-news-dataset)** — Metadata-only crypto, public-discussion, and macroeconomic FinBERT sentiment datasets partitioned as Parquet
+- **[crypto-dataset](https://github.com/Speirsy11/crypto-dataset)** - Top-10 Binance OHLCV candle dataset. Partitioned as Parquet
+- **[crypto-news-dataset](https://github.com/Speirsy11/crypto-news-dataset)** - Metadata-only crypto article dataset with FinBERT sentiment analysis. Partitioned as Parquet
 
 ### 🤖 Benchmarks
 
@@ -21,12 +21,11 @@
 
 ### 🎓 Dissertations
 
-- **[dissertations](https://github.com/Speirsy11/dissertations)** — University of Liverpool: BSc (BlockChat, 2023/24) and MSc FinTech (ML for trading strategy regime selection, 2025
-- **[BlockChat](https://github.com/Speirsy11/BlockChat)** — BsC Dissertation Project - Blockchain-based secure messaging service
+- **[dissertations](https://github.com/Speirsy11/dissertations)** - University of Liverpool: BSc (**[BlockChat](https://github.com/Speirsy11/BlockChat)**, 2023/24) and MSc FinTech (ML for trading strategy regime selection, 2025)
 
 ### 🧰 Starters
 
-- **[Charlie-turbo-starter](https://github.com/Speirsy11/Charlie-turbo-starter)** — My Turborepo starter
+- **[Charlie-turbo-starter](https://github.com/Speirsy11/Charlie-turbo-starter)** - My Turborepo starter
 
 ---
 
