@@ -31,27 +31,15 @@
 
 ### 🛠 Tech
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" />
-<img src="https://raw.githubusercontent.com/Speirsy11/Speirsy11/main/assets/badges/llamaindex.svg" alt="LlamaIndex" />
-<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" />&nbsp;
+<img src="https://raw.githubusercontent.com/Speirsy11/Speirsy11/main/assets/badges/llamaindex.svg" alt="LlamaIndex" />&nbsp;
+<img src="https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-
----
-
-### 🔥 Streak
-
-<img src="https://streak-stats.demolab.com?user=Speirsy11&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speirsy11&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
-
-### 📊 Past Year Contributions
-
-<img src="https://ghchart.rshah.org/2196F3/Speirsy11" alt="Past year contribution chart" />
+</p>
